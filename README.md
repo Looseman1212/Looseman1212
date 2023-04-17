@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there :)
 
 - 🔭 I’m currently working on a web application that scrapes songs from Bandcamp with parameters given by the user, then can create and populate a playlist on the users spotify account with songs from the scrape!
-- 🌱 I’m currently learning asynchronous Javascript functions and XML requests
+- 🌱 I’m currently learning SVG animations
 - 👯 I’m looking to collaborate on anything! Would like to get into building an API or creating more dynamic HTML, any oversight into how other people tackle their code would be awesome
 - 🤔 I’m looking for help with asynchronous Javascript functions :S
 - 💬 Ask me about things to do with the world outside
-- 📫 How to reach me: instagram - @yeahsickg or linkedIn - https://www.linkedin.com/in/max-reid-4621a9257/
+- 📫 How to reach me: Email - maxwilliamreid@gmail.com, instagram - @yeahsickg, linkedIn - https://www.linkedin.com/in/max-reid-4621a9257/
 - ⚡ Fun fact: the internal temp for a medium-rare cooked steak is about 55 degrees celsius 
 
 <!--
